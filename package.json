@@ -1,0 +1,15 @@
+{
+  "name": "smart-deduplicate",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@immich/sdk": "^1.108.0",
+    "dotenv": "^16.4.5",
+    "progress": "^2.0.3"
+  }
+}
